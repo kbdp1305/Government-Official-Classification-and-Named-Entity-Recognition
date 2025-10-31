@@ -289,7 +289,7 @@ Sastrawi, tqdm, wandb, shap, json, regex
 | Name | Role | Key Contributions |
 |:--|:--|:--|
 | **Krisna Bayu Dharma Putra** | Artificial Intelligence Engineer | Model architecture design, training pipeline, Classification modeling, dataset scraper, performance optimization, NER fine-tuning, paper writer |
-| **Nailfaaz** | Artificial Intelligence Engineer | Dataset curation, NER fine-tuning, literature study, paper writer |
+| **Nailfaaz** | Team Leader & Artificial Intelligence Engineer | Dataset curation, NER fine-tuning, literature study, paper writer |
 | **Rabbani Nur Kumoro** | Quality Assurance | Quality Assurance, paper writer |
 | **Yunita Sari** | Research Advisor | Supervision, validation, and academic guidance |
 
